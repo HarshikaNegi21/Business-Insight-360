@@ -4,7 +4,6 @@
 
 ## 🔗 Live Resources
 - **Interactive Dashboard:**  [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNWFjOTZhODMtY2E3Ny00MTVlLTgyZWQtNmM2YTk1MmFhYTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-
   See the final product in action—navigate through different department views and KPIs.
   
 - **Project Portfolio:** [Click Here](#)  
