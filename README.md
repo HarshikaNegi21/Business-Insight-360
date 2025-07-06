@@ -3,7 +3,7 @@
 **Empowering AtliQ Hardware with a centralized, visual data solution**—this project uses Microsoft Power BI to bring clarity and control to business data across Finance, Sales, Marketing, and Supply Chain teams, all in one dashboard.
 
 ## 🔗 Live Resources
-- **Interactive Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiNWFjOTZhODMtY2E3Ny00MTVlLTgyZWQtNmM2YTk1MmFhYTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)(#)  
+- **Interactive Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNWFjOTZhODMtY2E3Ny00MTVlLTgyZWQtNmM2YTk1MmFhYTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
   See the final product in action—navigate through different department views and KPIs.
   
 - **Project Portfolio:** [Click Here](#)  
