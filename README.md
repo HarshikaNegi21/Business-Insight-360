@@ -6,9 +6,6 @@
 - **Interactive Dashboard:**  [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNWFjOTZhODMtY2E3Ny00MTVlLTgyZWQtNmM2YTk1MmFhYTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
   See the final product in action—navigate through different department views and KPIs.
   
-- **Project Portfolio:** [Click Here](#)  
-  Explore other analytics solutions developed in the portfolio.
-
 ## 🧠 What Is This Project About?
 
 This dashboard pulls together data from multiple places—like spreadsheets and databases—and brings them into one visual tool. Instead of looking through different reports or software, AtliQ Hardware can now get a full picture of how their business is performing in one spot. Whether it’s tracking sales growth, monitoring supply chain delays, or comparing marketing campaigns—everything is measurable and interactive.
